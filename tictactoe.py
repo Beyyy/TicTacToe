@@ -22,7 +22,7 @@ cells = [0,0,0,0,0,0,0,0,0]
 
 
 pygame.init()
-pygame.display.set_caption("TicTacToe")
+pygame.display.set_caption("Tic Tac Toe")
 window = pygame.display.set_mode((window_width, window_height))
 
 font = pygame.font.SysFont("Arial", 18)
